@@ -1,5 +1,6 @@
 # SQUISITA
-#### 
+#### Description
+The main purpose of this project is to help people practice and understand better the concepts.
 #### By **Winnie Kahendah**
 ## Setup/Installation Requirements
 * Git & github
