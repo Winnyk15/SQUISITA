@@ -8,7 +8,7 @@ body
 }
 .container
 {
-  background-color: rgba(194, 33, 33, 0.637);
+  background-color: rgba(250, 0, 0, 0.637);
 }
 .LKO
  {
@@ -67,13 +67,13 @@ li a:hover:not(.active) {
 
 
 #totalCostSpan{
-  color: blue;
+  color: green;
 
 }
 
 h1::first-letter {
   font-size: 200%;
-  color:blue;
+  color:green;
 }
 
 
