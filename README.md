@@ -1,6 +1,6 @@
 # SQUISITA
 #### Description
-The main purpose of this project is to help people practice and understand better the concepts.
+This project is created to assist employees working at the pizza place serve their customers in a fast and organized way.
 #### By **Winnie Kahendah**
 ## Setup/Installation Requirements
 * Git & github
